@@ -1,0 +1,21 @@
+body{
+  background-image: url("https://fcw.com/media/ps360/GIG/EDIT_SHARED/Cloud/clouddata.png");
+  /* https://fcw.com/media/ps360/GIG/EDIT_SHARED/Cloud/clouddata.png */
+  /* https://media.istockphoto.com/photos/cloud-computing-the-data-transfer-and-storage-concept-consists-of-a-picture-id1345778718?b=1&k=20&m=1345778718&s=170667a&w=0&h=xPbdZ5MUeM_qOi12Yl99n-cYmEF4DIGIn3M86cCcuQw= */
+  background-size: cover;
+}
+.inner-div{
+  height: 300px;
+  width: 500px;
+background-color: rgba(0,0,0,0.5);
+position: relative;
+margin: 5rem 0 0 5rem;
+border-radius: 20px;
+box-shadow: 10px 5px 5px #66666e;
+padding: 2rem;
+color: white;
+}
+.share{
+  width:60%;
+  margin: 2rem 0;
+}
